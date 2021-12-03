@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1125 741" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(0.487952,0,0,0.487952,-35.7302,14.6)">
+        <circle cx="391.105" cy="377.633" r="50.891"/>
+        <g id="Ebene1">
+            <g transform="matrix(1,0,0,1,46.7917,-39.9679)">
+                <ellipse cx="345.942" cy="537.967" rx="53.737" ry="84.947"/>
+            </g>
+            <g transform="matrix(0.821823,0.569744,-0.569744,0.821823,354.401,-131.959)">
+                <ellipse cx="332.949" cy="526.467" rx="15.156" ry="75.001"/>
+            </g>
+            <g transform="matrix(0.821383,-0.570377,0.570377,0.821383,-117.072,245.909)">
+                <ellipse cx="332.949" cy="526.467" rx="15.156" ry="75.001"/>
+            </g>
+            <g transform="matrix(0.946118,0.323823,-0.323823,0.946118,202.618,-0.511197)">
+                <ellipse cx="332.949" cy="526.467" rx="15.156" ry="75.001"/>
+            </g>
+            <g transform="matrix(0.936042,-0.351888,0.351888,0.936042,-60.8444,230.951)">
+                <ellipse cx="332.949" cy="526.467" rx="15.156" ry="75.001"/>
+            </g>
+        </g>
+        <g id="Ebene2" transform="matrix(0.997262,-0.0739461,0.0739461,0.997262,-58.7752,-3.51223)">
+            <g transform="matrix(0.728448,0.0138635,-0.012957,0.680818,136.452,214.538)">
+                <ellipse cx="483.573" cy="719.891" rx="22.417" ry="11.095" style="stroke:black;stroke-width:6.1px;"/>
+            </g>
+            <g transform="matrix(0.728448,0.0138635,-0.012957,0.680818,-21.6579,203.933)">
+                <ellipse cx="483.573" cy="719.891" rx="22.417" ry="11.095" style="stroke:black;stroke-width:6.1px;"/>
+            </g>
+        </g>
+        <g transform="matrix(1.12702,0,0,1.12702,127.449,-137.207)">
+            <g id="Ebene5">
+                <text x="182.609px" y="768.349px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:24.137px;">Student</text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(0.487952,0,0,0.487952,725.145,12.1416)">
+        <circle cx="391.105" cy="377.633" r="50.891"/>
+        <g id="Ebene11" serif:id="Ebene1">
+            <g transform="matrix(1,0,0,1,46.7917,-39.9679)">
+                <ellipse cx="345.942" cy="537.967" rx="53.737" ry="84.947"/>
+            </g>
+            <g transform="matrix(0.821823,0.569744,-0.569744,0.821823,354.401,-131.959)">
+                <ellipse cx="332.949" cy="526.467" rx="15.156" ry="75.001"/>
+            </g>
+            <g transform="matrix(0.821383,-0.570377,0.570377,0.821383,-117.072,245.909)">
+                <ellipse cx="332.949" cy="526.467" rx="15.156" ry="75.001"/>
+            </g>
+            <g transform="matrix(0.946118,0.323823,-0.323823,0.946118,202.618,-0.511197)">
+                <ellipse cx="332.949" cy="526.467" rx="15.156" ry="75.001"/>
+            </g>
+            <g transform="matrix(0.936042,-0.351888,0.351888,0.936042,-60.8444,230.951)">
+                <ellipse cx="332.949" cy="526.467" rx="15.156" ry="75.001"/>
+            </g>
+        </g>
+        <g id="Ebene21" serif:id="Ebene2" transform="matrix(0.997262,-0.0739461,0.0739461,0.997262,-58.7752,-3.51223)">
+            <g transform="matrix(0.728448,0.0138635,-0.012957,0.680818,136.452,214.538)">
+                <ellipse cx="483.573" cy="719.891" rx="22.417" ry="11.095" style="stroke:black;stroke-width:6.1px;"/>
+            </g>
+            <g transform="matrix(0.728448,0.0138635,-0.012957,0.680818,-21.6579,203.933)">
+                <ellipse cx="483.573" cy="719.891" rx="22.417" ry="11.095" style="stroke:black;stroke-width:6.1px;"/>
+            </g>
+        </g>
+        <g transform="matrix(1.12702,0,0,1.12702,127.449,-137.207)">
+            <g id="Ebene51" serif:id="Ebene5">
+                <text x="182.609px" y="768.349px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:24.137px;">Employee</text>
+            </g>
+        </g>
+    </g>
+    <g id="Ebene4" transform="matrix(0.612323,0,0,0.612323,-41.9534,-44.9095)">
+        <g transform="matrix(2.02828,0,0,3.41557,-2283.64,-1166.45)">
+            <rect x="1398.26" y="402.727" width="376.251" height="200.614" style="fill:white;stroke:rgb(17,0,0);stroke-width:1.22px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-702.735,-183.598)">
+            <text x="1450.25px" y="464.135px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:24.137px;">University Regensburg W<tspan x="1723.46px 1736.89px " y="464.135px 464.135px ">eb</tspan>site</text>
+        </g>
+    </g>
+    <g id="Ebene7" transform="matrix(0.549933,0,0,0.549933,-7.48879,-31.8642)">
+        <path d="M911.074,563.759L1070.89,565.201" style="fill:none;stroke:rgb(17,0,0);stroke-width:7.09px;"/>
+    </g>
+    <g id="Ebene3" transform="matrix(0.549933,0,0,0.549933,-122.66,-2.09238)">
+        <g transform="matrix(0.722879,0,0,0.499239,257.332,246.517)">
+            <ellipse cx="998.776" cy="517.939" rx="209.215" ry="153.716" style="fill:white;stroke:rgb(17,0,0);stroke-width:6.15px;"/>
+        </g>
+        <g transform="matrix(1.26069,0,0,1.26069,-280.786,-108.935)">
+            <text x="906.068px" y="493.113px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16.338px;">look for corona information</text>
+        </g>
+    </g>
+    <g id="Ebene31" serif:id="Ebene3" transform="matrix(0.549933,0,0,0.549933,119.202,0.18534)">
+        <g transform="matrix(0.722879,0,0,0.499239,257.332,246.517)">
+            <ellipse cx="998.776" cy="517.939" rx="209.215" ry="153.716" style="fill:white;stroke:rgb(17,0,0);stroke-width:6.15px;"/>
+        </g>
+        <g transform="matrix(1.26069,0,0,1.26069,-280.786,-108.935)">
+            <text x="906.068px" y="493.113px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16.338px;">write corona information</text>
+        </g>
+    </g>
+    <g id="Ebene6" transform="matrix(0.549933,0,0,0.549933,-7.48879,-31.8642)">
+        <path d="M424.878,570.656L606.352,568.661L584.314,542.934L606.352,568.661L585.842,590.935" style="fill:none;stroke:rgb(17,0,0);stroke-width:7.09px;"/>
+    </g>
+    <g transform="matrix(-0.549924,-0.00314772,0.00314772,-0.549924,1078.48,588.768)">
+        <g id="Ebene61" serif:id="Ebene6">
+            <path d="M424.878,570.656L606.352,568.661L584.314,542.934L606.352,568.661L585.842,590.935" style="fill:none;stroke:rgb(17,0,0);stroke-width:7.09px;"/>
+        </g>
+    </g>
+    <g id="Ebene8">
+    </g>
+</svg>
