@@ -1,0 +1,28 @@
+Susanna Blanke, Niklas Donhauser, Leonard Hübner, Julius Windloff
+Aufgabe 3.1:
+a) https://github.com/ValdrDarmir/Uebungsblatt_3
+b) Szenario 1: Armin Anfänger möchte sich über seinen Studium informieren. Deshalb besucht er die Seite der Universität Regensburg (UR) um sich über das Modul „Einführung in die Informatik und Medieninformatik“ zu informieren. Armin informiert sich auf seinem Smartphone, während der ersten Vorlesungswoche.
+Szenario 2: Petra Profi möchte sich über die Aktuelle Lage der Corona Politik an der UR informieren, da sie in den Nachrichten von einer vierten Welle gehört hat. Petra informiert sich einen Tag bevor sie zur UR muss auf ihren Mac.
+Szenario 3: Jürgen muss für seine Vorlesung das neue Template benutzen, das seine Kollegen ihm gezeigt haben. Darum lädt er sich die neueste Version herunter.  Jürgen macht dies am Abend auf seinem PC. 
+c) UML-Diagramm: https://github.com/ValdrDarmir/Uebungsblatt_3
+Use Case 1: Download der PowerPoint Vorlage
+Actor: Mitglied der Universität Regensburg
+Use Case Overview: Ein Mitglied der UR möchte sich für einen Vortrag die Vorlage für PowerPoint herunterladen. Deshalb wird nach Standardparket gesucht. Dort wird der entsprechende Link angeklickt. Danach wird unter dem Unterlink „Fakultäten“ die zugehörige Fakultät ausgewählt und anschließend das entsprechende Standardpaket heruntergeladen.
+Subject Area: UR
+Actor: Mitglied der UR
+Trigger: Muss einen Vortrag an der UR halten
+Precondition 1: Folien sollen gut gestaltet aussehen 
+Precondition 2: Vorgabe des Kurses
+Description: Dieses Szenario beschreibt den Download eines PowerPoint Templates der UR. 
+1: Mitglied geht auf die UR Seite (https://www.uni-regensburg.de/)
+2: Dort gibt er in der Suchleiste „Standardpaket“ ein und bestätigt mit Enter
+3: Hier wählt er den Link: „Vorlagen für die Arbeit mit dem Corporate Design – Universität Regensburg“
+4: Nun wird der Reiter „Fakultäten“ ausgeklappt.
+5: Unter der entsprechenden Fakultät wird das Standartpaket heruntergeladen
+6: In dem heruntergeladenen Ordner wird das PowerPoint Template geöffnet.
+Termination outcome: Das entsprechende Template (PowerPoint) wurde heruntergeladen. 
+d) Als Student im fünften Semester möchte ich, dass die Webseite bei Suchanfragen mir gute Ergebnisse liefert, damit ich gesuchtes auch gut finden kann.
+Als Studentin im ersten Semester möchte ich ein Menü, das mir bei der Erstellung meines Stundenplans hilft und mir alle wichtigen Informationen auf einmal gibt, damit ich keine Fehler mache oder einen Kurs verpasse.
+Als Student möchte ich ein Menüband, dass ich individuell anpassen kann, damit ich meine bevorzugten Links und Seiten auf einen Blick habe. 
+Als Studentin möchte ich die Möglichkeit haben Kurse, die ich in Spur ausgewählt habe, als Vorschlag in Grips zu bekommen, damit ich mir unnötige Suchen spare. 
+ 
